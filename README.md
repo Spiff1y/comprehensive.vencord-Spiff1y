@@ -37,11 +37,11 @@ combined into one clean, easy-to-use setup
 
 <br>
 
-<h3>🍏 MacOS</h3>
+<h3 MacOS /h3>
 
 <p>
-UI tweaks and enhancements designed<br>
-for macOS Tahoe 26.1 (25B78)
+UI changes for M1-M3 Macbooks 
+Version: MacOS Tahoe 26.1(25B78)
 </p>
 
 <br>
