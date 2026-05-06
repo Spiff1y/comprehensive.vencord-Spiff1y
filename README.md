@@ -10,7 +10,7 @@
 ____________________________________________________________________
 #### Themes
 ###### [Check](https://github.com/SL4F/vencord/tree/main/themes)
-###### [Check](https://github.com/Spiff1y/boring.notch)
-_____________________________________________________________________
-#### Plugins
 ###### [Check](https://github.com/SL4F/vencord/tree/main/plugins)
+_____________________________________________________________________
+#### Plugins for MacOS Tahoe
+###### [Check](https://github.com/Spiff1y/boring.notch)
