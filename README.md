@@ -1,11 +1,11 @@
 #Spiff1y's Plugins v2
 
-## Collection of several Vencord plugins from various authors, combined in Spiff1y's repository, as well as useful MacOS improvements.
+#### Collection of several Vencord plugins from various authors, combined in Spiff1y's repository, as well as useful MacOS improvements.
 
-## These MacOS changes are for MacOS Tahoe 26.1 (25B78), and may be updated in the future.
-###### Authors SL4F, Spiff1y
+#### These MacOS changes are for MacOS Tahoe 26.1 (25B78), and may be updated in the future.
+####### Authors SL4F, Spiff1y
 ____________________________________________________________________
-#### Themes
+#### Themes and Plugins for Vencord
 ###### (https://github.com/SL4F/vencord/tree/main/themes)
 ###### (https://github.com/SL4F/vencord/tree/main/plugins)
 _____________________________________________________________________
