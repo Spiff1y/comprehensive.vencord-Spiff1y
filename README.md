@@ -1,5 +1,7 @@
 ### [Vencord](https://github.com/SL4F/vencord)
 ###### Collection of several Vencord plugins from various authors, combined in Spiff1y's repository, as well as useful MacOS improvements.
+
+
 ###### These MacOS changes are for MacOS Tahoe 26.1 (25B78), and may be updated in the future.
 
 <p align="left"> 
