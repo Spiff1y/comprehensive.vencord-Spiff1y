@@ -1,58 +1,74 @@
+<!-- HEADER -->
 <table align="center">
 <tr>
-
-<!-- VENCORD CARD -->
-<td align="center" width="300">
+<td align="center" width="600">
 
 <br>
 
-<h3>🔌 Vencord</h3>
+<h2>🎧 Spiff1y's Plugins v2</h2>
 
 <p>
-Plugins and themes from multiple authors,<br>
-combined into one clean, easy-to-use setup
+A curated collection of <b>Vencord plugins</b> and <b>MacOS enhancements</b><br>
+Designed for simplicity, performance, and clean UI
 </p>
 
 <br>
 
-<a href="https://github.com/SL4F/vencord/tree/main/themes">
-  <img src="https://img.shields.io/badge/Themes-1DB954?style=for-the-badge&logo=github">
-</a>
-
-<br><br>
-
-<a href="https://github.com/SL4F/vencord/tree/main/plugins">
-  <img src="https://img.shields.io/badge/Plugins-1DB954?style=for-the-badge&logo=github">
-</a>
+<img src="https://img.shields.io/badge/macOS-Tahoe%2026.1-F2F2F7?style=for-the-badge">
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Stable-30D158?style=for-the-badge">
 
 <br><br>
 
 </td>
-
-<!-- SPACING -->
-<td width="20"></td>
-
-<!-- MACOS CARD -->
-<td align="center" width="300">
-
-<br>
-
-<h3 MacOS /h3>
-
-<p>
-UI changes for M1-M3 Macbooks 
-Version: MacOS Tahoe 26.1(25B78)
-</p>
-
-<br>
-
-<a href="https://github.com/Spiff1y/boring.notch">
-  <img src="https://img.shields.io/badge/Enhancements-F2F2F7?style=for-the-badge&logo=apple">
-</a>
-
-<br><br>
-
-</td>
-
 </tr>
 </table>
+
+---
+
+## 🔌 Vencord
+
+### 🎨 Themes
+- [Browse Themes](https://github.com/SL4F/vencord/tree/main/themes)
+
+---
+
+### 🔧 Plugins
+<!-- Add plugins below -->
+- Plugin Name — short description  
+- Plugin Name — short description  
+- Plugin Name — short description  
+
+---
+
+### 💾 100% Game Saves
+<!-- Future section -->
+- Game Name — Platform — Download link  
+- Game Name — Platform — Download link  
+
+---
+
+## 🍏 MacOS
+
+### ⚙️ Enhancements
+- [MacOS Tweaks](https://github.com/Spiff1y/boring.notch)
+
+---
+
+### 🧩 Additional Tools
+<!-- Add more Mac tools later -->
+- Tool Name — what it does  
+- Tool Name — what it does  
+
+---
+
+## 👥 Authors
+- SL4F  
+- Spiff1y  
+
+---
+
+## ✨ Notes
+- Built for **macOS Tahoe 26.1 (25B78)**
+- Designed to stay **lightweight and clean**
+- Sections will expand as more content is added
