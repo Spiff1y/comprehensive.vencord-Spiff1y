@@ -34,8 +34,8 @@ Better themes: (https://github.com/SL4F/vencord/tree/main/themes)
 
 ### Torrent Info Hash Links (V1)
 <!-- Torrent Hashs below are safe and tested by Spiff -->
--  Forza Horizon 3 Ultimate Edition [FitGirlRepack]:c537f9902741647534f33fd3a5c817a89c48a19d
-- 
+-  Forza Horizon 3 Ultimate Edition [FitGirlRepack]: c537f9902741647534f33fd3a5c817a89c48a19d
+-  Forza Horizon 4 Ultimate Edition [FitGirlRepack]: 99f0a053dbe27e8b560b3b9c93f232aba5c9c8a3
 
 ---
 
