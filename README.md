@@ -5,11 +5,10 @@
 
 <br>
 
-<h2>🎧 Spiff1y's Plugins v2</h2>
+<h2> Spiff1y's Plugins </h2>
 
 <p>
-A curated collection of <b>Vencord plugins</b> and <b>MacOS enhancements</b><br>
-Designed for simplicity, performance, and clean UI
+Vencord Plugins and MacOS tweaks to adjust UI's and optimise.
 </p>
 
 <br>
@@ -26,49 +25,40 @@ Designed for simplicity, performance, and clean UI
 
 ---
 
-## 🔌 Vencord
+## Vencord
 
-### 🎨 Themes
-- [Browse Themes](https://github.com/SL4F/vencord/tree/main/themes)
-
----
-
-### 🔧 Plugins
-<!-- Add plugins below -->
-- Plugin Name — short description  
-- Plugin Name — short description  
-- Plugin Name — short description  
+### Themes
+Better themes: (https://github.com/SL4F/vencord/tree/main/themes)
 
 ---
 
-### 💾 100% Game Saves
+### Torrent Hash Links
+<!-- Torrent Hashs below are safe and tested by Spiff -->
+- 
+-  
+- 
+
+---
+
+### 100% Game Saves
 <!-- Future section -->
 - Game Name — Platform — Download link  
 - Game Name — Platform — Download link  
 
 ---
 
-## 🍏 MacOS
+##  MacOS
 
-### ⚙️ Enhancements
-- [MacOS Tweaks](https://github.com/Spiff1y/boring.notch)
-
----
-
-### 🧩 Additional Tools
-<!-- Add more Mac tools later -->
-- Tool Name — what it does  
-- Tool Name — what it does  
-
----
-
-## 👥 Authors
-- SL4F  
-- Spiff1y  
-
----
-
-## ✨ Notes
+###  Enhancements
+MacOS Tweaks (https://github.com/Spiff1y/boring.notch)
 - Built for **macOS Tahoe 26.1 (25B78)**
 - Designed to stay **lightweight and clean**
 - Sections will expand as more content is added
+---
+---
+
+#### Authors
+- SL4F  
+- Spiff1y  
+
+
