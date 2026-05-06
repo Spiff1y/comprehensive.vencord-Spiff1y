@@ -1,4 +1,4 @@
-#Spiff1y's Plugins v2
+*bold* Spiff1y's Plugins v2
 
 #### Collection of several Vencord plugins from various authors, combined in Spiff1y's repository, as well as useful MacOS improvements.
 
