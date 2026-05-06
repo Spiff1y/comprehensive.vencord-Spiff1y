@@ -9,8 +9,8 @@
 ###### Authors SL4F, Spiff1y
 ____________________________________________________________________
 #### Themes
-###### [Check](https://github.com/SL4F/vencord/tree/main/themes)
-###### [Check](https://github.com/SL4F/vencord/tree/main/plugins)
+###### (https://github.com/SL4F/vencord/tree/main/themes)
+###### (https://github.com/SL4F/vencord/tree/main/plugins)
 _____________________________________________________________________
 #### Plugins for MacOS Tahoe
-###### [Check](https://github.com/Spiff1y/boring.notch)
+###### (https://github.com/Spiff1y/boring.notch)
