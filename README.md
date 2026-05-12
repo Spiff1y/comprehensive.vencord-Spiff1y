@@ -51,6 +51,9 @@ Vencord plugins, macOS tweaks, UI customisation, and optimisation tools that Spi
 ### Jedi Survivor Deluxe Steam Edition
 `519f97b81fa0991756ef84682bbed694e0d93fdc`
 
+### Ghost of Tsushima DC [FitGirl Repack]
+'25e2f1aa84d8e4afba8105656bdb4ddf3db95fa4'
+
 ---
 
 # 100% Game Saves
