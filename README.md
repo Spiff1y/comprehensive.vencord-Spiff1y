@@ -54,9 +54,11 @@ Vencord plugins, macOS tweaks, UI customisation, and optimisation tools that Spi
 ### Ghost of Tsushima Director's Cut [FitGirl Repack]
 `25e2f1aa84d8e4afba8105656bdb4ddf3db95fa4`
 
-### Assassins Creed Odyssey -CPY
+### Assassins Creed Odyssey [CPY]
 `251655292c90c62343f7cb1af375d8115e1dfd56`
----
+
+### The Last of Us Part 1 (Digital Deluxe Edition) [Fitgirl Repack]
+`6a4747dd9819515bd3d480d03771d3fd017edce1`
 
 # 100% Game Saves
 - coming in the future
