@@ -8,8 +8,7 @@
 <h1>Spiff1y's Plugins</h1>
 
 <p>
-Vencord plugins, macOS tweaks, UI customisation, and optimisation tools.
-Because apparently stock software isn't allowed to stay stock for more than six minutes.
+Vencord plugins, macOS tweaks, UI customisation, and optimisation tools that Spiff uses and then can't remember where he found it.
 </p>
 
 <br>
@@ -25,8 +24,6 @@ Because apparently stock software isn't allowed to stay stock for more than six 
 </table>
 
 ---
-
-# 📦 Vencord
 
 ## 🎨 Themes
 
