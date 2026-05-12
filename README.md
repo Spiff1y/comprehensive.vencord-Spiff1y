@@ -54,17 +54,10 @@ Vencord plugins, macOS tweaks, UI customisation, and optimisation tools that Spi
 ---
 
 # 100% Game Saves
-
-<!-- Future section -->
-
-### Game Name
-Platform — Download Link
-
-### Game Name
-Platform — Download Link
+- coming in the future
 ---
 
-# 🛠 Mods
+# Mods & Shaders
 
 ## FH4 Shaders
 🔗 https://www.nexusmods.com/forzahorizon4/mods/3
