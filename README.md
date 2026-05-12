@@ -25,7 +25,7 @@ Vencord plugins, macOS tweaks, UI customisation, and optimisation tools that Spi
 
 ---
 
-## 🎨 Themes
+## Themes
 
 ### Better Themes
 🔗 https://github.com/SL4F/vencord/tree/main/themes
@@ -79,7 +79,7 @@ Vencord plugins, macOS tweaks, UI customisation, and optimisation tools that Spi
 
 ---
 
-# 👥 Authors
+# Authors
 
 - SL4F
 - Spiff1y
