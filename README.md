@@ -35,9 +35,13 @@ Better themes: (https://github.com/SL4F/vencord/tree/main/themes)
 ### Torrent Info Hash Links (V1)
 <!-- Torrent Hashs below are safe and tested by Spiff -->
 -  Forza Horizon 3 Ultimate Edition [FitGirlRepack]: c537f9902741647534f33fd3a5c817a89c48a19d
+
 -  Forza Horizon 4 Ultimate Edition [FitGirlRepack]: 99f0a053dbe27e8b560b3b9c93f232aba5c9c8a3
+  
 -  Forza Horizon 5 [FitGirlRepack]: 20bf4e706a2401f5643ab9f3a030f4da8b13873b
+   
 -  Forza Horizon 6 [Denuvo Crack]: ab87f4227e1624e24c4ed7749cb75ccc00270072
+  
 -  Jedi Survivor Deluxe Steam Ediition: 519f97b81fa0991756ef84682bbed694e0d93fdc
 
 ---
@@ -49,9 +53,10 @@ Better themes: (https://github.com/SL4F/vencord/tree/main/themes)
 
 
 ### **Mods**
-FH4 Shaders - https://www.nexusmods.com/forzahorizon4/mods/3
-Outfit Manager Jedi Survivor - https://www.nexusmods.com/starwarsjedisurvivor/mods/110
-Darth Maul Skin Jedi Survivor - https://www.nexusmods.com/starwarsjedisurvivor/mods/201
+FH4 Shaders - 
+[https://www.nexusmods.com/forzahorizon4/mods/3]
+Outfit Manager Jedi Survivor - [https://www.nexusmods.com/starwarsjedisurvivor/mods/110]
+Darth Maul Skin Jedi Survivor - [https://www.nexusmods.com/starwarsjedisurvivor/mods/201]
 
 ---
 
